@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\welbe\OneDrive\Documentos\Github\aula java\gerenciador\.metadata\.plugins\org.eclipse.jdt.core
+346578320.index
+3335863598.index
+2196199803.index
